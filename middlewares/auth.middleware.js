@@ -1,3 +1,5 @@
+import "dotenv/config";
+
 import { validateUserToken } from "../utils/token.js";
 
 /**
